@@ -1,0 +1,32 @@
+.header {
+  background: #33D4FF;
+  height: 6vw;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 1em;
+  text-decoration: none;
+}
+#main {
+  margin-top: 10vh;
+}
+
+main p {
+  font-family: 'Times New Roman', Times, serif;
+justify-content:;
+  padding: 1%;
+}
